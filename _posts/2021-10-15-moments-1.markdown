@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2021-10-01
+img: moments-1.png
+alt: image-alt
+project-date: October 2014
+client: Moments
+category: Video
+description: Benvinguts a 'Moments a Barcelona' un programa ple d'il·lusió, d'història, de passions i de moments per descobrir.
+video: <iframe width="862" height="485" src="https://www.youtube.com/embed/RvKPlFKeMAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
