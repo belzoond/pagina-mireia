@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+img: ioa.jpg
+title: Reportaje IOA
+alt: Reportaje IOA
+categoria: Corporativos
+description: Reportaje corporativo de la clínica de Oftalmología Avanzada IOA Madrid.
+video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/Kb-CV_IgLl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
