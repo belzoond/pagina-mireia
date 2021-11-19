@@ -6,6 +6,8 @@ img: zoo.jpg
 alt: Coneix el Zoo de Barcelona
 title: Coneix el Zoo de Barcelona
 categoria: Corporativos
-description: Coneix el Zoo de Barcelona
+description: "Reportatge corporatiu del Zoo de Barcelona.
+<br><br>
+Guió."
 video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/GndYN_Bwm5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
