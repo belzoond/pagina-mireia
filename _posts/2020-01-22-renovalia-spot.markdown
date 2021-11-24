@@ -4,7 +4,7 @@ modal-id: 12
 img: renovalia-spot.jpg
 title: "Spot \"Renovalia\""
 alt: "Spot \"Renovalia\""
-categoria: Corporativos
+categoria: Corporatius
 description: "Espot de Renovalia, companyia líder en el sector de les energies renovables.
 <br><br>
 Càmera."

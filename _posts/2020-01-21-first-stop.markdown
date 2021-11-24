@@ -4,7 +4,7 @@ modal-id: 5
 img: first-stop.jpg
 title: "Reportaje \"First Stop\""
 alt: "Reportaje \"First Stop\""
-categoria: Corporativos
+categoria: Corporatius
 description: "Reportatge corporatiu de la cadena de tallers mecànics First Stop.
 <br><br>
 Redacció, guió, entrevistes i càmera."

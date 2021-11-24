@@ -5,7 +5,7 @@ date: 2020-01-09
 img: secundaris-sue-chavez.jpg
 title: "\"Secundaris\" con Sue Chávez (subchef de Carme Ruscalleda)"
 alt: "\"Secundaris\" con Sue Chávez (subchef de Carme Ruscalleda)"
-categoria: Programas
+categoria: Programes
 description: "Programa <i>Secundaris</i> sobre la Sue Chávez, la mà dreta de la xef Carme Ruscalleda, emès a La2 Catalunya.
 <br><br>
 Redacció i guió."

@@ -4,7 +4,7 @@ modal-id: 7
 img: inspira-iaac.jpg
 title: "Inspira \"Institut d'Arquitectura Avançada de Catalunya\""
 alt: "Inspira \"Institut d'Arquitectura Avançada de Catalunya\""
-categoria: Programas
+categoria: Programes
 description: "Reportatge del Institut d’Arquitectura Avançada de Catalunya (IAAC) del programa de
 televisió d’arquitectura i paisatgisme <i>Inspira</i> emès a La2 Catalunya.
 <br><br>

@@ -5,7 +5,7 @@ date: 2020-02-07
 title: In Madrid - Una vida plena
 img: in-madrid.jpg
 alt: In Madrid - Una vida plena
-categoria: Programas
+categoria: Programes
 description: "<i>In Madrid</i> és un programa creat per a La Otra de Telemadrid.
 <br><br>
 Redacció, guió, entrevistes i càmera."

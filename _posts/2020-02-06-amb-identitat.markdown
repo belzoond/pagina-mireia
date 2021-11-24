@@ -4,7 +4,7 @@ modal-id: 10
 img: amb-identitat.jpg
 title: Amb Identitat - Els futurs professionals de la salut.
 alt: Amb Identitat - Els futurs professionals de la salut.
-categoria: Programas
+categoria: Programes
 description: "<i>Amb Identitat</i> és un programa creat per La2 Catalunya.
 <br><br>
 Redacció, guió, entrevistes i càmera."

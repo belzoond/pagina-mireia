@@ -5,7 +5,7 @@ date: 2013-12-11
 img: zoo.jpg
 alt: Coneix el Zoo de Barcelona
 title: Coneix el Zoo de Barcelona
-categoria: Corporativos
+categoria: Corporatius
 description: "Reportatge corporatiu del Zoo de Barcelona.
 <br><br>
 Guió."

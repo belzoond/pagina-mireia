@@ -4,7 +4,7 @@ modal-id: 14
 img: martina.jpg
 title: "Martina Matencio"
 alt: "Martina Matencio"
-categoria: Corporativos
+categoria: Corporatius
 description: "Martina Matencio"
 video: <iframe src="https://player.vimeo.com/video/318515045?h=ceca118b84" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ---

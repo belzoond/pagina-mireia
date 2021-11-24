@@ -4,7 +4,7 @@ modal-id: 8
 img: inspira-oab.jpg
 title: Inspira (OAB, Noem, Onionlab y Bofill)
 alt: Inspira (OAB, Noem, Onionlab y Bofill)
-categoria: Programas
+categoria: Programes
 description: "Programa de televisió d’arquitectura i paisatgisme emès a La2 Catalunya.
 <br><br>
 Redacció, guió, entrevistes i càmera."

@@ -4,7 +4,7 @@ modal-id: 6
 img: renovalia.jpg
 title: "Reportaje \"Renovalia\""
 alt: "Reportaje \"Renovalia\""
-categoria: Corporativos
+categoria: Corporatius
 description: "Reportatge corporatiu de Renovalia Energy Club, companyia líder en el sector de les energies renovables.
 <br><br>
 Redacció, guió, entrevistes i càmera."

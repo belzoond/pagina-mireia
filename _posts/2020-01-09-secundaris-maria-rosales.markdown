@@ -4,7 +4,7 @@ modal-id: 11
 img: secundaris-maria-rosales.jpg
 title: "\"Secundaris\" con Maria Rosales (regidora del Teatre Lliure)"
 alt: "\"Secundaris\" con Maria Rosales (regidora del Teatre Lliure)"
-categoria: Programas
+categoria: Programes
 description: "Programa <i>Secundaris</i> sobre la Maria Rosales, regidora del Teatre Lliure, emès a La2
 Catalunya.
 <br><br>

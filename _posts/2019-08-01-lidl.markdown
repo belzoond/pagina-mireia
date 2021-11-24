@@ -4,7 +4,7 @@ modal-id: 13
 img: lidl.jpg
 title: "Lidl Solarprofit"
 alt: "Lidl Solarprofit"
-categoria: Corporativos
+categoria: Corporatius
 description: "Lidl Solarprofit"
 video: <iframe src="https://player.vimeo.com/video/351383353?h=8860f41596" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 ---

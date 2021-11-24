@@ -4,7 +4,7 @@ modal-id: 9
 img: inspira-ferrando.jpg
 title: Inspira (Josep Ferrando Architecture, Ressò, Scob y Valldaura Self-sufficient Labs)
 alt: Inspira (Josep Ferrando Architecture, Ressò, Scob y Valldaura Self-sufficient Labs)
-categoria: Programas
+categoria: Programes
 description: "Programa de televisió d’arquitectura i paisatgisme emès a La2 Catalunya.
 <br><br>
 Redacció, guió, entrevistes i càmera."
